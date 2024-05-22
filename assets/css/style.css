@@ -14,7 +14,7 @@ body {
 }
 
 .background-img {
-    background: url("https://github.com/horire/convinience-bookstore/blob/main/assets/images/neko.PNG?raw=true");
+    background: url("../images/neko.PNG");
     background-repeat: no-repeat;
     background-attachment: fixed;
     mix-blend-mode: multiply;
